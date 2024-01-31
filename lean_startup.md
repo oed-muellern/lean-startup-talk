@@ -1,7 +1,7 @@
 autoscale: false
 footer: Nils Müller - Lean Startup
 slidenumbers: true
-theme: Scherzkeks, 7
+theme: Scherzkeks, 3
 
 # Let's talk about
 # [fit] **Lean Startup**
@@ -34,11 +34,18 @@ theme: Scherzkeks, 7
 
 ---
 
-# 1 Typ
+![fit](img/eric-ries.jpg)
 
 ---
 
-![inline](img/eric-ries.jpg)
+![fit](img/eric-ries.jpg)
+
+
+# [fit] Co-Founder/CTO **IMVU**
+# [fit] Co-Founder **Long-Term Stock Exchange**
+# [fit] Autor von **"The Lean Startup"**
+# [fit] "Best Young Entrepreneurs of Tech" (BusinessWeek)
+
 
 ---
 
@@ -100,36 +107,36 @@ Validated Learning
 ---
 
 # 1.
-# [fit] Identifiziere das Problem,
+# [fit] Identifiziere das **Problem**,
 # [fit] das du lösen willst.
 
 ---
 
 # 2.
-# [fit] Formuliere deine Hypothese.
+# [fit] Formuliere deine **Hypothese**.
 
 ---
 
 # 3.
-# [fit] Baue ein MVP,
+# [fit] Baue ein **MVP**,
 # [fit] um die Hypothese zu testen.
 
 ---
 
 # 4.
-# [fit] Sammle Daten und
-# [fit] Kund\*innen-Feedback.
+# [fit] Sammle **Daten** und
+# [fit] Kund\*innen-**Feedback**.
 
 ---
 
 # 5.
-# [fit] Verbessere das MVP
+# [fit] **Verbessere** das MVP
 # [fit] anhand des Feedbacks.
 
 ---
 
 # 6.
-# [fit] Wiederhole den Zyklus
+# [fit] Wiederhole den **Zyklus**,
 # [fit] bis alle zufrieden sind.
 
 ---
@@ -138,12 +145,9 @@ Validated Learning
 
 ---
 
-# [fit] Lasst uns klein starten.
+# [fit] Lasst uns **klein** starten.
 
 ---
 
-# [fit] Hauptsache, wir starten! 🚀
-
----
-
-# Vielen Dank 😌
+# Stop starting.
+# Start **finishing**.
